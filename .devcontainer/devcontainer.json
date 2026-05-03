@@ -14,7 +14,7 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"GitHub.copilot",
+				"GitHub.copilot-chat",
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
 				"ms-python.vscode-pylance"
